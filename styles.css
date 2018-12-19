@@ -4,12 +4,12 @@
 nav{
     text-align: right;
 }
-#home{
+/* #home{
     background-image: url("https://cdn.pixabay.com/photo/2015/08/27/09/22/banner-909710__340.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height:600px;
-}
+} */
 
 #about,#portfolio{
     text-align: center;
