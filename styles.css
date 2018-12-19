@@ -26,12 +26,12 @@ footer{
 #contact{
     text-align:center;
 }
-input[type=text]{
+ input[type=text]{
     background-color: red;
     color: white;
     padding:10px;
     margin: 5px;
-}
+} 
 img{
     float: left;
     height: 500px;
