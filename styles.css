@@ -11,10 +11,10 @@ nav{
     height:600px;
 } 
 
-#about,#portfolio{
+/* #about,#portfolio{
     text-align: center;
     background-color: aqua;
-    height: 600px;
+    height: 600px; */
 }
 #about>p{
     padding-top: 100px;
