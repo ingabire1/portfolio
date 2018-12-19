@@ -1,0 +1,39 @@
+.sylvie{
+    text-align: center;
+}
+nav{
+    text-align: right;
+}
+#home{
+    background-image: url("https://cdn.pixabay.com/photo/2015/08/27/09/22/banner-909710__340.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:600px;
+}
+
+#about,#portfolio{
+    text-align: center;
+    background-color: aqua;
+    height: 600px;
+}
+#about>p{
+    padding-top: 100px;
+}
+footer{
+    text-align: center;
+    background-color:red;
+}
+#contact{
+    text-align:center;
+}
+input[type=text]{
+    background-color: red;
+    color: white;
+    padding:10px;
+    margin: 5px;
+}
+img{
+    float: left;
+    height: 500px;
+
+}
