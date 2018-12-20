@@ -11,12 +11,14 @@ nav{
     height:600px;
 } 
 
- #about,#portfolio{
+ #redabout,#redportfolio{
     text-align: center;
     background-color: aqua;
     height: 600px; 
+   
 }
-#about>p{
+#redportfolio ul,ol{list-style-type: none;}
+#redabout>p{
     padding-top: 100px;
 }
 footer{
