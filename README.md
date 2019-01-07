@@ -6,7 +6,7 @@ My portfolio is a webpage done by me as a student of wecode as sofware developer
 ## Setup/Installation Requirements
 * open your computer
 * connect to internet
-* search for my link:ingabire1.github.io/portfolio
+* search for my link:https://ingabire1.github.io/portfolio
 * There you are on my website.
 * This website cna be view on mobile or computer and with ease
 {Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
